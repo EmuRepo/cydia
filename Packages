@@ -1,28 +1,38 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.articsn0w.gba4ios
+Version:2.1
+Section:Games
+Maintainer:idk
+Depends: firmware (>=4)
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Filename: ./debs/com.articsn0w.gba4ios.deb
+Size: 6.15mb
+MD5sum: e0211515521d4ae4b9c025db5bee9033
+Description: A gba emulator for iOS 
+Name: Gba4ios
+Author: RileyTestut
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Package: com.explusalpha.snes9xex
+Version:1.5.29
+Section:Games
+Maintainer:idk
+Depends: firmware (>= 3.1)
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Filename: ./debs/com.explusalpha.snes9xex.deb
+Size: 696.29mb
+MD5sum: 7c9e0302901b2bd43fc643978f153ac0
+Description: A snes emulator for iOS 
+Name: snes9x iOS 
+Author: Robert broglia
 
+Package: com.explusalpha.snes9xexplus
+Version:1.5.29
+Section:Games
+Maintainer:idk
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.explusalpha.snes9xexplus.deb
+Size: 1.01mb
+MD5sum: 243612e876ae0bbfac4fc88d00cd3418
+Description: A snes emulator for iOS 
+Name: snes9x+ iOS 
+Author: Robert broglia
