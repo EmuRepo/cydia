@@ -5,34 +5,8 @@ Maintainer:idk
 Depends: firmware (>=4)
 Architecture: iphoneos-arm
 Filename: ./debs/com.articsn0w.gba4ios.deb
-Size: 6.15mb
+Size: 6150000
 MD5sum: e0211515521d4ae4b9c025db5bee9033
 Description: A gba emulator for iOS 
-Name: Gba4ios
+Name: Gba4iOS
 Author: RileyTestut
-
-Package: com.explusalpha.snes9xex
-Version:1.5.29
-Section:Games
-Maintainer:idk
-Depends: firmware (>= 3.1)
-Architecture: iphoneos-arm
-Filename: ./debs/com.explusalpha.snes9xex.deb
-Size: 696.29mb
-MD5sum: 7c9e0302901b2bd43fc643978f153ac0
-Description: A snes emulator for iOS 
-Name: snes9x iOS 
-Author: Robert broglia
-
-Package: com.explusalpha.snes9xexplus
-Version:1.5.29
-Section:Games
-Maintainer:idk
-Depends: firmware (>= 5.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.explusalpha.snes9xexplus.deb
-Size: 1.01mb
-MD5sum: 243612e876ae0bbfac4fc88d00cd3418
-Description: A snes emulator for iOS 
-Name: snes9x+ iOS 
-Author: Robert broglia
