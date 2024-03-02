@@ -1,4 +1,4 @@
-<package>
+s<package>
     <id>com.explusalpha.snes9xex</id>
     <name>snes 9x ex</name>
     <version>1.5.29</version>
@@ -14,7 +14,7 @@
     </compatibility>
     <dependencies></dependencies>
     <descriptionlist>
-        <description>This is an old package. Requires iOS 7 and below..</description>
+        <description>This is a snes emulator. Requires iOS 5 and above..</description>
     </descriptionlist>
     <screenshots></screenshots>
     <changelog>
