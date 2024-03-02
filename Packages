@@ -4,7 +4,7 @@ Section:Games
 Maintainer:idk
 Depends: firmware (>=4)
 Architecture: iphoneos-arm
-Filename: ./debs/com.articsn0w.gba4ios.deb
+Filename: debs/com.articsn0w.gba4ios.deb
 Size: 6150000
 MD5sum: e0211515521d4ae4b9c025db5bee9033
 Description: A gba emulator for iOS 
