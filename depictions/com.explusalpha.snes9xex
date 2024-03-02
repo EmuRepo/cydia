@@ -1,0 +1,24 @@
+<package>
+    <id>com.explusalpha.snes9xex</id>
+    <name>snes 9x ex</name>
+    <version>1.5.29</version>
+    <compatibility>
+        <firmware>
+            <miniOS>3.1</miniOS>
+            <maxiOS>16.6.1</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>This is an old package. Requires iOS 7 and below..</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>repo made</change>
+    </changelog>
+    <links></links>
+</package>
